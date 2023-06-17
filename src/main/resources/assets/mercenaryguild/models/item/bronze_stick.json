@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "mercenaryguild:item/bronze_stick"
+  }
+}
