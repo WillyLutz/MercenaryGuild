@@ -1,5 +1,6 @@
 {
   "item.mercenaryguild.copper_ingot.name": "Lingot de Cuivre",
   "item.mercenaryguild.copper_stick.name": "Bâton de Cuivre",
-  "item.mercenaryguild.cursed_apple.name": "Pomme Maudite"
+  "item.mercenaryguild.cursed_apple.name": "Pomme Maudite",
+  "entity.minecraft.villager.test_master": "Test Maître"
 }

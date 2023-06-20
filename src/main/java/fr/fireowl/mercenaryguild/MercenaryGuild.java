@@ -23,16 +23,16 @@ public class MercenaryGuild {
 
 
         // Villager implementation *in development*
-        VillagerInit.register(bus);
+//        VillagerInit.register(bus);
 //        VillagerInit.VILLAGER_PROFESSIONS.register(bus);
 //        VillagerInit.POINT_OF_INTEREST_TYPE.register(bus);
 
     }
 
     private void setup(FMLCommonSetupEvent e){
-        e.enqueueWork(() -> {
-            VillagerInit.registerPOIs();
-        });
+//        e.enqueueWork(() -> {
+//            VillagerInit.registerPOIs();
+//        });
 
     }
 
